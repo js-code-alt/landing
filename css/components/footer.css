@@ -1,0 +1,16 @@
+.footer {
+  background-color: rgb(78, 78, 78);
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: rgb(150, 150, 150);
+  background-position: center;
+  background-size: cover;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.fab {
+  color: rgb(94, 214, 156);
+  font-size: 30px;
+}

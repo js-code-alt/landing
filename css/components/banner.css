@@ -1,0 +1,26 @@
+
+.banner {
+  height: 600px;
+  margin-top: auto;
+  text-align: left ;
+  color: white;
+  background-position: center;
+  background-size: cover;
+}
+
+.container {
+  margin-left: 250px;
+  padding: 200px;
+}
+
+.container p {
+  color: rgb(196, 196, 196);
+  padding-bottom: 25px;
+}
+
+.btn-primary {
+  background-color: rgb(94, 214, 156);
+  color: white;
+  border-radius: 25px;
+  padding: 16px 36px;
+}
